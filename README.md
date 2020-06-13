@@ -1,4 +1,4 @@
-# gJavaScript
+# JavaScript
 
 Изучаю JavaScript (впервые в своей жизни!)
 Нужно же было когда-то начинать!
